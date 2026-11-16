@@ -8,7 +8,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/jacobbagnall/qa-in-library-pipeline-)
 ![CI Pipeline Badge](https://github.com/jacobbagnall/qa-in-library-pipeline-/actions/workflows/ci.yml/badge.svg)
 
-<mark>*Replace the placeholder text above with your GitHub username and repo name*</mark>
 
 ## Project Overview
 flowchart TD
