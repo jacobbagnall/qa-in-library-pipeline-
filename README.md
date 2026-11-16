@@ -6,7 +6,7 @@
 ![Open Issues](https://img.shields.io/github/issues/jacobbagnall/qa-in-library-pipeline-)
 ![Open PRs](https://img.shields.io/github/issues-pr/jacobbagnall/qa-in-library-pipeline-)
 ![Last Commit](https://img.shields.io/github/last-commit/jacobbagnall/qa-in-library-pipeline-)
-![CI Pipeline Badge](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline Badge](https://github.com/jacobbagnall/qa-in-library-pipeline-/actions/workflows/ci.yml/badge.svg)
 
 <mark>*Replace the placeholder text above with your GitHub username and repo name*</mark>
 
